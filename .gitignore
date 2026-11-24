@@ -1,0 +1,29 @@
+# Compiled Class files & Build outputs
+*.class
+build/
+classes/
+staging/
+dist/
+runtime/
+
+# Archives & binaries
+*.jar
+*.tar.gz
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Logs & temp files
+*.log
+*.tmp
+Average
+
+# IDE & Editor metadata
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
